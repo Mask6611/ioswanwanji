@@ -2,11 +2,10 @@
 
 项目名称：planner Pro-日程安排
 更新日期：2023-11-17
-脚本作者：iOS玩玩鸡💞
-公众号：iOS玩玩鸡（ioswwj777）
+脚本作者：ios玩玩鸡
 使用声明：⚠️仅供参考，🈲转载与售卖！
 
-*************************************
+**************************************
 
 [rewrite_local]
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/iTunes/planner.js
