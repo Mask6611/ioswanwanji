@@ -11,7 +11,7 @@
 *******************************
 [rewrite_local]
 
-^http[s]?:\/\/mobile-ios-wallpaper-api.zhhainiao.com\/v1\/user\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yqzmbz.js
+^http[s]?:\/\/mobile-ios-wallpaper-api.zhhainiao.com\/v1\/user\/info url script-response-body https://raw.githubusercontent.com/Mask6611/ioswanwanji/main/yqzm.js
 
 [mitm] 
 
