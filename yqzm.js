@@ -22,7 +22,7 @@ hostname = mobile-ios-wallpaper-api.zhhainiao.com
 var objc = JSON.parse($response.body);
     objc = {
   "user_info" : {
-    "uid" : 76837142,
+    "uid" : 96450680,
     "user_type" : 0,
     "following_count" : 0,
     "works_mobile_download_cnt" : 0,
