@@ -6,10 +6,10 @@
 公众号：iOS玩玩鸡（ioswwj777）
 使用声明：⚠️仅供参考，🈲转载与售卖！
 
-**************************************
+*************************************
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Mask6611/ioswanwanji/main/iTunes/planner.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/Mask6611/ioswanwanji/main/planner.js
 
 [mitm]
 hostname = buy.itunes.apple.com
@@ -93,6 +93,7 @@ chxm1023 = {
     }
   ],
   "warning" : "仅供学习，禁止转载或售卖",
+  "Telegram" : "https://t.me/chxm1023"
 };
 
 $done({body: JSON.stringify(chxm1023)});
