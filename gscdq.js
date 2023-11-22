@@ -12,7 +12,7 @@
 
 [rewrite_local]
 
-^http[s]?:\/\/gushici.91iread.com url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gscdq.js
+^http[s]?:\/\/gushici.91iread.com url script-response-body https://raw.githubusercontent.com/Mask6611/ioswanwanji/main/gscdq.js
 
 [mitm] 
 
